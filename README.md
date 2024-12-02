@@ -21,6 +21,7 @@ I added this line.
 * Hi, This is Rahman Md Mustafizur
 * おはようございます。ハビバです！
 * hallo class, harland here
+* Hello, I'm Riza - よろしくお願いします
 * Hei, jeg er Valerie Megan!
 * Hi, This is Haftamu
 * Hello, This is Oluwatobi
@@ -28,6 +29,7 @@ I added this line.
 * Greetings, this is Shiyi
 * Hello from Choonhaklai Papon 2311408. (ᵔ.ᵔ)
 * hi,I'm Hiroki Kotake.
+* Hi, I'm Ryo Hasegawa. My ID is 2411404.
 * Hi, I'm Ashmari
 * Hi this is Miki
 * Hi, This is Rownak , please merge mine. :)
@@ -46,6 +48,7 @@ I added this line.
 * Hi! This is Kudo!
 * Hi, I'm Phuong Nam
 * PARTY TIME.
+* Good afternoon, I'm Neeti..../>
 * Hi! My name is Akhdan, my student ID is 2311428!
 * 提出時間ギリギリでごめんなさい_:(´ཀ`」 ∠):
 * Hi! This is Tasha!
@@ -53,3 +56,4 @@ I added this line.
 * Hello. I'm Kanata Morimoto, ID 2411287. Thank you.
 * Hello, this is Elyanah!
 * Joshua Siy 2411426 was here
+* Hello! Axalia here :)
