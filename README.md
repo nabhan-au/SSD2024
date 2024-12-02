@@ -23,6 +23,7 @@ I added this line.
 * hallo class, harland here
 * Hello, I'm Riza - よろしくお願いします
 * Hei, jeg er Valerie Megan!
+* Bonjour, c'est clément!
 * Hi, This is Haftamu
 * Hello, This is Oluwatobi
 * おはようございます、マージしていただけると幸いです。
