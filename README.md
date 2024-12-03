@@ -54,6 +54,7 @@ I added this line.
 * Hi! My name is Akhdan, my student ID is 2311428!
 * 提出時間ギリギリでごめんなさい_:(´ཀ`」 ∠):
 * Hi! This is Tasha!
+* Hello, here's Childeric !
 * ANdres Mohali ID 2311341
 * Hello. I'm Kanata Morimoto, ID 2411287. Thank you.
 * Hello, this is Elyanah!
