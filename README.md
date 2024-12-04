@@ -61,3 +61,4 @@ I added this line.
 * Joshua Siy 2411426 was here
 * Hello! Axalia here :)
 * Hello! This is Takumi!
+* Hi! This is Kotomi!
