@@ -60,3 +60,4 @@ I added this line.
 * Hello, this is Elyanah!
 * Joshua Siy 2411426 was here
 * Hello! Axalia here :)
+* Hello! This is Takumi!
