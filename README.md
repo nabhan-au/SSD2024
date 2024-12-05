@@ -62,3 +62,4 @@ I added this line.
 * Hello! Axalia here :)
 * Hello! This is Takumi!
 * Hi! This is Kotomi!
+* Hello! I'm Shusuke!
