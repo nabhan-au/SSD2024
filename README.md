@@ -63,3 +63,4 @@ I added this line.
 * Hello! This is Takumi!
 * Hi! This is Kotomi!
 * Hello! I'm Shusuke!
+
